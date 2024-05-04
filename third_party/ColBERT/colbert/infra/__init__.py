@@ -1,2 +1,2 @@
-from .run import *
-from .config import *
+from colbert.infra.run import *
+from colbert.infra.config import *

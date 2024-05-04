@@ -1,2 +1,2 @@
-from .config import *
-from .settings import *
+from colbert.infra.config.config import *
+from colbert.infra.config.settings import *

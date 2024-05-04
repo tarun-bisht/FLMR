@@ -1,5 +1,5 @@
-from .trainer import Trainer
-from .indexer import Indexer
-from .searcher import Searcher
+from colbert.trainer import Trainer
+from colbert.indexer import Indexer
+from colbert.searcher import Searcher
 
-from .modeling.checkpoint import Checkpoint
+from colbert.modeling.checkpoint import Checkpoint

@@ -1,5 +1,5 @@
-from .collection import *
-from .queries import *
+from colbert.data.collection import *
+from colbert.data.queries import *
 
-from .ranking import *
-from .examples import *
+from colbert.data.ranking import *
+from colbert.data.examples import *
